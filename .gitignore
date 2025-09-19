@@ -1,1 +1,4 @@
 .env*
+dumps
+node_modules
+.devbox

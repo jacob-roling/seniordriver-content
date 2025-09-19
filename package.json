@@ -1,0 +1,16 @@
+{
+  "name": "seniordriver-content",
+  "version": "0.0.1",
+  "description": "",
+  "type": "module",
+  "keywords": [],
+  "author": "Jacob Roling",
+  "license": "ISC",
+  "packageManager": "pnpm@10.13.1",
+  "engines": {
+    "node": "24.5.0"
+  },
+  "dependencies": {
+    "rehype-stringify": "^10.0.1"
+  }
+}
